@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gabrielifloss
 - 👀 I’m interested in Jazz, Tech and Physics. 
-- 🌱 I’m currently learning Java, JS, Ruby, R, CSS, Python, Node.js, React, MySQL.
+- 🌱 I’m currently learning Java, Python, MySQL and ABAP.
 - 💞️ I’m looking to collaborate on Different Projects
 - 📫 How to reach me... You can send me an e-mail in gabrielifloss@hotmail.com and I'll certainly reply you as soon as I see the e-mail :)
 
